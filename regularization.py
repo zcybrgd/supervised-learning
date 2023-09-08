@@ -15,7 +15,6 @@ carsMpg = pd.read_csv('./datasets/reg.csv')
 carsMpg['horsepower'] = pd.to_numeric(carsMpg['horsepower'], errors='coerce')
 
 # Drop rows with NaN values in the 'horsepower' column
-
 carsMpg.dropna(subset=['horsepower'], inplace=True)
 
 
