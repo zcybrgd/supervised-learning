@@ -12,11 +12,11 @@ a dataset related to student performance, and even a NASA JPL Asteroid Dataset e
 
 # tools and technologies : 
 
-| Technology | Description |
-| ---------- | ----------- |
-| Pandas | Data manipulation library for Python. |
-| Matplotlib | Data visualization library for Python. |
-| scikit-learn | Machine learning library for Python. |
+| Icon | Technology | Description |
+| ---- | ---------- | ----------- |
+| ![Pandas Logo](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg) | Pandas | Data manipulation library for Python. |
+| ![Matplotlib Logo](https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg) | Matplotlib | Data visualization library for Python. |
+| ![Scikit-learn Logo](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png) | scikit-learn | Machine learning library for Python. |
 
 
 # any advice or review or contribution is welcomed <3
