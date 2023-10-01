@@ -1,6 +1,6 @@
 # supervised-learning
 this is the repo where there is all my notebooks and ml algorithms during my learning of supervised learning, i explored a lot of datasets to predict several labels, including salary datasets, 
-a dataset related to student performance, and even a NASA JPL Asteroid Dataset etc .. 
+a dataset related to student performance, and even a NASA JPL Asteroid Dataset etc .. /datasets/ were brought from Kaggle
 
 # what you can find : 
 - built a single variable linear regression model to predict the salary of an employee based on their years of experience
